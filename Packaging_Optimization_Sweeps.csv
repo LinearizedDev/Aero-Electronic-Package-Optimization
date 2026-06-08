@@ -1,0 +1,7 @@
+Solder_Alloy,Underfill_Variant,Strain_Range,Fatigue_Life
+SAC305,Baseline_Epoxy,0.0005242935840674224,29240
+SAC305,High_Performance_Filled,0.0005088082549154836,30738
+SAC405,Baseline_Epoxy,0.0016662405160339892,6910
+SAC405,High_Performance_Filled,0.0016119226816217942,7316
+Innolot,Baseline_Epoxy,0.0003288004467514691,305135
+Innolot,High_Performance_Filled,0.00032208771120594134,316796
